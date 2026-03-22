@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MACtv EPG AUTO">
+
+  <channel id="mactv.pe">
+    <display-name>MAC TV</display-name>
+  </channel>
+
+  <!-- ================= FUNCIÓN BASE: LUNES A VIERNES ================= -->
+
+  <!-- Día 1 (Lunes ejemplo: 20260323) -->
+  
+  <programme start="20260323000000 -0500" stop="20260323020000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Las mejores películas llenas de adrenalina y humor para acompañarte en la madrugada. Historias dinámicas, entretenidas y perfectas para no despegarte de la pantalla.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260323020000 -0500" stop="20260323040000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Una mezcla explosiva de emociones: risas, suspenso y acción en una selección variada de películas para los que buscan entretenimiento sin límites.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260323040000 -0500" stop="20260323060000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Lo mejor del cine mexicano: historias intensas, cultura, drama y comedia que conectan con nuestras raíces latinoamericanas.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260323060000 -0500" stop="20260323080000 -0500" channel="mactv.pe">
+    <title>Cantos de mi tierra</title>
+    <desc>Un recorrido musical por lo mejor de la música latinoamericana, resaltando nuestras tradiciones, identidad y cultura.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260323080000 -0500" stop="20260323090000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>Información actualizada, veraz y directa de Cajamarca, el Perú y el mundo.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260323090000 -0500" stop="20260323100000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis profundo de la coyuntura nacional con enfoque crítico, entrevistas y debate.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260323100000 -0500" stop="20260323110000 -0500" channel="mactv.pe">
+    <title>Dragon Ball</title>
+    <desc>Acción, aventuras y batallas épicas junto a Goku y sus amigos.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260323110000 -0500" stop="20260323120000 -0500" channel="mactv.pe">
+    <title>Naruto</title>
+    <desc>La historia de un joven ninja que lucha por sus sueños y reconocimiento.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260323120000 -0500" stop="20260323130000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los éxitos de cumbia que hacen vibrar al Perú.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260323130000 -0500" stop="20260323150000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Películas entretenidas para acompañar tu tarde con historias ligeras, divertidas y llenas de emoción.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260323150000 -0500" stop="20260323160000 -0500" channel="mactv.pe">
+    <title>Betty La Fea</title>
+    <desc>Historia de superación, amor y humor en el mundo empresarial.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260323160000 -0500" stop="20260323170000 -0500" channel="mactv.pe">
+    <title>Fatmagul</title>
+    <desc>Drama intenso sobre justicia, amor y lucha personal.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260323170000 -0500" stop="20260323180000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los hits urbanos del momento.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260323180000 -0500" stop="20260323190000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis político y social en horario estelar.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260323190000 -0500" stop="20260323200000 -0500" channel="mactv.pe">
+    <title>Grimm</title>
+    <desc>Misterio y criaturas sobrenaturales en una historia llena de acción.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260323200000 -0500" stop="20260323210000 -0500" channel="mactv.pe">
+    <title>Dr. House</title>
+    <desc>Casos médicos complejos resueltos con inteligencia y sarcasmo.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260323210000 -0500" stop="20260323220000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>El resumen más completo del día.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260323220000 -0500" stop="20260323230000 -0500" channel="mactv.pe">
+    <title>El Patrón del Mal</title>
+    <desc>Historia del ascenso y caída de un criminal icónico.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260323230000 -0500" stop="20260324000000 -0500" channel="mactv.pe">
+    <title>Casado con Hijos</title>
+    <desc>Humor familiar con situaciones inolvidables.</desc>
+    <category>Comedia</category>
+  </programme>
+
+ <!-- Martes: 20260324 -->
+  <programme start="20260324000000 -0500" stop="20260324020000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Las mejores películas llenas de adrenalina y humor para acompañarte en la madrugada. Historias dinámicas, entretenidas y perfectas para no despegarte de la pantalla.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260324020000 -0500" stop="20260324040000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Una mezcla explosiva de emociones: risas, suspenso y acción en una selección variada de películas para los que buscan entretenimiento sin límites.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260324040000 -0500" stop="20260324060000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Lo mejor del cine mexicano: historias intensas, cultura, drama y comedia que conectan con nuestras raíces latinoamericanas.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260324060000 -0500" stop="20260324080000 -0500" channel="mactv.pe">
+    <title>Cantos de mi tierra</title>
+    <desc>Un recorrido musical por lo mejor de la música latinoamericana, resaltando nuestras tradiciones, identidad y cultura.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260324080000 -0500" stop="20260324090000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>Información actualizada, veraz y directa de Cajamarca, el Perú y el mundo.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260324090000 -0500" stop="20260324100000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis profundo de la coyuntura nacional con enfoque crítico, entrevistas y debate.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260324100000 -0500" stop="20260324110000 -0500" channel="mactv.pe">
+    <title>Dragon Ball</title>
+    <desc>Acción, aventuras y batallas épicas junto a Goku y sus amigos.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260324110000 -0500" stop="20260324120000 -0500" channel="mactv.pe">
+    <title>Naruto</title>
+    <desc>La historia de un joven ninja que lucha por sus sueños y reconocimiento.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260324120000 -0500" stop="20260324130000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los éxitos de cumbia que hacen vibrar al Perú.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260324130000 -0500" stop="20260324150000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Películas entretenidas para acompañar tu tarde con historias ligeras, divertidas y llenas de emoción.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260324150000 -0500" stop="20260324160000 -0500" channel="mactv.pe">
+    <title>Betty La Fea</title>
+    <desc>Historia de superación, amor y humor en el mundo empresarial.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260324160000 -0500" stop="20260324170000 -0500" channel="mactv.pe">
+    <title>Fatmagul</title>
+    <desc>Drama intenso sobre justicia, amor y lucha personal.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260324170000 -0500" stop="20260324180000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los hits urbanos del momento.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260324180000 -0500" stop="20260324190000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis político y social en horario estelar.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260324190000 -0500" stop="20260324200000 -0500" channel="mactv.pe">
+    <title>Grimm</title>
+    <desc>Misterio y criaturas sobrenaturales en una historia llena de acción.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260324200000 -0500" stop="20260324210000 -0500" channel="mactv.pe">
+    <title>Dr. House</title>
+    <desc>Casos médicos complejos resueltos con inteligencia y sarcasmo.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260324210000 -0500" stop="20260324220000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>El resumen más completo del día.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260324220000 -0500" stop="20260324230000 -0500" channel="mactv.pe">
+    <title>El Patrón del Mal</title>
+    <desc>Historia del ascenso y caída de un criminal icónico.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260324230000 -0500" stop="20260324000000 -0500" channel="mactv.pe">
+    <title>Casado con Hijos</title>
+    <desc>Humor familiar con situaciones inolvidables.</desc>
+    <category>Comedia</category>
+  </programme>
+
+
+
+  <!-- Miércoles: 20260325 -->
+    <programme start="20260325000000 -0500" stop="20260325020000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Las mejores películas llenas de adrenalina y humor para acompañarte en la madrugada. Historias dinámicas, entretenidas y perfectas para no despegarte de la pantalla.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260325020000 -0500" stop="20260325040000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Una mezcla explosiva de emociones: risas, suspenso y acción en una selección variada de películas para los que buscan entretenimiento sin límites.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260325040000 -0500" stop="20260325060000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Lo mejor del cine mexicano: historias intensas, cultura, drama y comedia que conectan con nuestras raíces latinoamericanas.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260325060000 -0500" stop="20260325080000 -0500" channel="mactv.pe">
+    <title>Cantos de mi tierra</title>
+    <desc>Un recorrido musical por lo mejor de la música latinoamericana, resaltando nuestras tradiciones, identidad y cultura.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260325080000 -0500" stop="20260325090000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>Información actualizada, veraz y directa de Cajamarca, el Perú y el mundo.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260325090000 -0500" stop="20260325100000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis profundo de la coyuntura nacional con enfoque crítico, entrevistas y debate.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260325100000 -0500" stop="20260325110000 -0500" channel="mactv.pe">
+    <title>Dragon Ball</title>
+    <desc>Acción, aventuras y batallas épicas junto a Goku y sus amigos.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260325110000 -0500" stop="20260325120000 -0500" channel="mactv.pe">
+    <title>Naruto</title>
+    <desc>La historia de un joven ninja que lucha por sus sueños y reconocimiento.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260325120000 -0500" stop="20260325130000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los éxitos de cumbia que hacen vibrar al Perú.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260325130000 -0500" stop="20260325150000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Películas entretenidas para acompañar tu tarde con historias ligeras, divertidas y llenas de emoción.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260325150000 -0500" stop="20260325160000 -0500" channel="mactv.pe">
+    <title>Betty La Fea</title>
+    <desc>Historia de superación, amor y humor en el mundo empresarial.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260325160000 -0500" stop="20260325170000 -0500" channel="mactv.pe">
+    <title>Fatmagul</title>
+    <desc>Drama intenso sobre justicia, amor y lucha personal.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260325170000 -0500" stop="20260325180000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los hits urbanos del momento.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260325180000 -0500" stop="20260325190000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis político y social en horario estelar.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260325190000 -0500" stop="20260325200000 -0500" channel="mactv.pe">
+    <title>Grimm</title>
+    <desc>Misterio y criaturas sobrenaturales en una historia llena de acción.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260325200000 -0500" stop="20260325210000 -0500" channel="mactv.pe">
+    <title>Dr. House</title>
+    <desc>Casos médicos complejos resueltos con inteligencia y sarcasmo.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260325210000 -0500" stop="20260325220000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>El resumen más completo del día.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260325220000 -0500" stop="20260325230000 -0500" channel="mactv.pe">
+    <title>El Patrón del Mal</title>
+    <desc>Historia del ascenso y caída de un criminal icónico.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260325230000 -0500" stop="20260324000000 -0500" channel="mactv.pe">
+    <title>Casado con Hijos</title>
+    <desc>Humor familiar con situaciones inolvidables.</desc>
+    <category>Comedia</category>
+  </programme>
+
+
+
+  <!-- Jueves: 20260326 -->
+    <programme start="20260326000000 -0500" stop="20260326020000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Las mejores películas llenas de adrenalina y humor para acompañarte en la madrugada. Historias dinámicas, entretenidas y perfectas para no despegarte de la pantalla.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260326020000 -0500" stop="20260326040000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Una mezcla explosiva de emociones: risas, suspenso y acción en una selección variada de películas para los que buscan entretenimiento sin límites.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260326040000 -0500" stop="20260326060000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Lo mejor del cine mexicano: historias intensas, cultura, drama y comedia que conectan con nuestras raíces latinoamericanas.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260326060000 -0500" stop="20260326080000 -0500" channel="mactv.pe">
+    <title>Cantos de mi tierra</title>
+    <desc>Un recorrido musical por lo mejor de la música latinoamericana, resaltando nuestras tradiciones, identidad y cultura.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260326080000 -0500" stop="20260326090000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>Información actualizada, veraz y directa de Cajamarca, el Perú y el mundo.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260326090000 -0500" stop="20260326100000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis profundo de la coyuntura nacional con enfoque crítico, entrevistas y debate.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260326100000 -0500" stop="20260326110000 -0500" channel="mactv.pe">
+    <title>Dragon Ball</title>
+    <desc>Acción, aventuras y batallas épicas junto a Goku y sus amigos.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260326110000 -0500" stop="20260326120000 -0500" channel="mactv.pe">
+    <title>Naruto</title>
+    <desc>La historia de un joven ninja que lucha por sus sueños y reconocimiento.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260326120000 -0500" stop="20260326130000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los éxitos de cumbia que hacen vibrar al Perú.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260326130000 -0500" stop="20260326150000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Películas entretenidas para acompañar tu tarde con historias ligeras, divertidas y llenas de emoción.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260326150000 -0500" stop="20260326160000 -0500" channel="mactv.pe">
+    <title>Betty La Fea</title>
+    <desc>Historia de superación, amor y humor en el mundo empresarial.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260326160000 -0500" stop="20260326170000 -0500" channel="mactv.pe">
+    <title>Fatmagul</title>
+    <desc>Drama intenso sobre justicia, amor y lucha personal.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260326170000 -0500" stop="20260326180000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los hits urbanos del momento.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260326180000 -0500" stop="20260326190000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis político y social en horario estelar.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260326190000 -0500" stop="20260326200000 -0500" channel="mactv.pe">
+    <title>Grimm</title>
+    <desc>Misterio y criaturas sobrenaturales en una historia llena de acción.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260326200000 -0500" stop="20260326210000 -0500" channel="mactv.pe">
+    <title>Dr. House</title>
+    <desc>Casos médicos complejos resueltos con inteligencia y sarcasmo.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260326210000 -0500" stop="20260326220000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>El resumen más completo del día.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260326220000 -0500" stop="20260326230000 -0500" channel="mactv.pe">
+    <title>El Patrón del Mal</title>
+    <desc>Historia del ascenso y caída de un criminal icónico.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260326230000 -0500" stop="20260324000000 -0500" channel="mactv.pe">
+    <title>Casado con Hijos</title>
+    <desc>Humor familiar con situaciones inolvidables.</desc>
+    <category>Comedia</category>
+  </programme>
+
+
+
+  <!-- Viernes: 20260327 -->
+
+  <programme start="20260327000000 -0500" stop="20260327020000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Las mejores películas llenas de adrenalina y humor para acompañarte en la madrugada. Historias dinámicas, entretenidas y perfectas para no despegarte de la pantalla.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260327020000 -0500" stop="20260327040000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Una mezcla explosiva de emociones: risas, suspenso y acción en una selección variada de películas para los que buscan entretenimiento sin límites.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260327040000 -0500" stop="20260327060000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Lo mejor del cine mexicano: historias intensas, cultura, drama y comedia que conectan con nuestras raíces latinoamericanas.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260327060000 -0500" stop="20260327080000 -0500" channel="mactv.pe">
+    <title>Cantos de mi tierra</title>
+    <desc>Un recorrido musical por lo mejor de la música latinoamericana, resaltando nuestras tradiciones, identidad y cultura.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260327080000 -0500" stop="20260327090000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>Información actualizada, veraz y directa de Cajamarca, el Perú y el mundo.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260327090000 -0500" stop="20260327100000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis profundo de la coyuntura nacional con enfoque crítico, entrevistas y debate.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260327100000 -0500" stop="20260327110000 -0500" channel="mactv.pe">
+    <title>Dragon Ball</title>
+    <desc>Acción, aventuras y batallas épicas junto a Goku y sus amigos.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260327110000 -0500" stop="20260327120000 -0500" channel="mactv.pe">
+    <title>Naruto</title>
+    <desc>La historia de un joven ninja que lucha por sus sueños y reconocimiento.</desc>
+    <category>Anime</category>
+  </programme>
+
+  <programme start="20260327120000 -0500" stop="20260327130000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los éxitos de cumbia que hacen vibrar al Perú.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260327130000 -0500" stop="20260327150000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Películas entretenidas para acompañar tu tarde con historias ligeras, divertidas y llenas de emoción.</desc>
+    <category>Películas</category>
+  </programme>
+
+  <programme start="20260327150000 -0500" stop="20260327160000 -0500" channel="mactv.pe">
+    <title>Betty La Fea</title>
+    <desc>Historia de superación, amor y humor en el mundo empresarial.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260327160000 -0500" stop="20260327170000 -0500" channel="mactv.pe">
+    <title>Fatmagul</title>
+    <desc>Drama intenso sobre justicia, amor y lucha personal.</desc>
+    <category>Novela</category>
+  </programme>
+
+  <programme start="20260327170000 -0500" stop="20260327180000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los hits urbanos del momento.</desc>
+    <category>Música</category>
+  </programme>
+
+  <programme start="20260327180000 -0500" stop="20260327190000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis político y social en horario estelar.</desc>
+    <category>Actualidad</category>
+  </programme>
+
+  <programme start="20260327190000 -0500" stop="20260327200000 -0500" channel="mactv.pe">
+    <title>Grimm</title>
+    <desc>Misterio y criaturas sobrenaturales en una historia llena de acción.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260327200000 -0500" stop="20260327210000 -0500" channel="mactv.pe">
+    <title>Dr. House</title>
+    <desc>Casos médicos complejos resueltos con inteligencia y sarcasmo.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260327210000 -0500" stop="20260327220000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>El resumen más completo del día.</desc>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260327220000 -0500" stop="20260327230000 -0500" channel="mactv.pe">
+    <title>El Patrón del Mal</title>
+    <desc>Historia del ascenso y caída de un criminal icónico.</desc>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260327230000 -0500" stop="20260324000000 -0500" channel="mactv.pe">
+    <title>Casado con Hijos</title>
+    <desc>Humor familiar con situaciones inolvidables.</desc>
+    <category>Comedia</category>
+  </programme>
+
+
+  <!-- ================= SÁBADO ================= -->
+
+<programme start="20260328000000 -0500" stop="20260328020000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Las mejores películas llenas de adrenalina y humor para acompañarte en la madrugada. Historias dinámicas, entretenidas y perfectas para no despegarte de la pantalla.</desc>
+  </programme>
+
+  <programme start="20260328020000 -0500" stop="20260328040000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Una mezcla explosiva de emociones: risas, suspenso y acción en una selección variada de películas para los que buscan entretenimiento sin límites.</desc>
+  </programme>
+
+  <programme start="20260328040000 -0500" stop="20260328060000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Lo mejor del cine mexicano: historias intensas, cultura, drama y comedia que conectan con nuestras raíces latinoamericanas.</desc>
+  </programme>
+
+  <programme start="20260328060000 -0500" stop="20260328080000 -0500" channel="mactv.pe">
+    <title>Cantos de mi tierra</title>
+    <desc>Un recorrido musical por lo mejor de la música latinoamericana, resaltando nuestras tradiciones, identidad y cultura.</desc>
+  </programme>
+
+  <programme start="20260328080000 -0500" stop="20260328100000 -0500" channel="mactv.pe">
+    <title>Cine Mac: Infantil</title>
+    <desc>Diversión asegurada para los más pequeños con películas animadas y familiares llenas de aventuras, valores y momentos inolvidables.</desc>
+  </programme>
+
+  <programme start="20260328100000 -0500" stop="20260328110000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>Información actualizada, veraz y directa de Cajamarca, el Perú y el mundo. Mantente informado con los hechos que realmente importan.</desc>
+  </programme>
+
+  <programme start="20260328110000 -0500" stop="20260328120000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis profundo de la coyuntura nacional con enfoque crítico, entrevistas y debate sobre los temas más relevantes del país.</desc>
+  </programme>
+
+  <programme start="20260328120000 -0500" stop="20260328130000 -0500" channel="mactv.pe">
+    <title>Pokemon</title>
+    <desc>Acompaña a Ash y Pikachu en emocionantes batallas y aventuras mientras buscan convertirse en los mejores entrenadores Pokémon.</desc>
+  </programme>
+
+  <programme start="20260328130000 -0500" stop="20260328150000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Películas entretenidas para acompañar tu tarde con historias ligeras, divertidas y llenas de emoción.</desc>
+  </programme>
+
+  <programme start="20260328150000 -0500" stop="20260328160000 -0500" channel="mactv.pe">
+    <title>Manual de Ned</title>
+    <desc>Consejos, humor y situaciones escolares en esta divertida serie que enseña cómo sobrevivir a la vida estudiantil.</desc>
+  </programme>
+
+  <programme start="20260328160000 -0500" stop="20260328170000 -0500" channel="mactv.pe">
+    <title>Malcolm el del Medio</title>
+    <desc>La vida nunca fue tan caótica y divertida. Malcolm, un genio rodeado de una familia fuera de control, enfrenta situaciones absurdas y momentos inolvidables.</desc>
+  </programme>
+
+  <programme start="20260328170000 -0500" stop="20260328180000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los hits urbanos del momento para subir la energía de tu tarde con lo mejor del género latino.</desc>
+  </programme>
+
+  <programme start="20260328180000 -0500" stop="20260328190000 -0500" channel="mactv.pe">
+    <title>Xena: Warrior Princess</title>
+    <desc>Acción, mitología y aventura con Xena, una guerrera legendaria que lucha por la justicia en un mundo lleno de peligros.</desc>
+  </programme>
+
+  <programme start="20260328190000 -0500" stop="20260328200000 -0500" channel="mactv.pe">
+    <title>Casado con Hijos</title>
+    <desc>Humor sin filtros con una familia disfuncional que garantiza risas y situaciones inolvidables.</desc>
+  </programme>
+
+  <programme start="20260328200000 -0500" stop="20260328210000 -0500" channel="mactv.pe">
+    <title>Dos hombres y medio</title>
+    <desc>Comedia irreverente sobre la convivencia entre dos hermanos y un niño, con situaciones hilarantes.</desc>
+  </programme>
+
+  <programme start="20260328210000 -0500" stop="20260328220000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los éxitos de cumbia que hacen vibrar al Perú. Ritmo y alegría para cerrar la noche.</desc>
+  </programme>
+
+  <programme start="20260328220000 -0500" stop="20260329000000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Las mejores películas llenas de adrenalina y humor para acompañarte en la noche.</desc>
+  </programme>
+
+
+  <!-- ================= DOMINGO ================= -->
+
+  <programme start="20260329000000 -0500" stop="20260329020000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Las mejores películas llenas de adrenalina y humor para acompañarte en la madrugada.</desc>
+  </programme>
+
+  <programme start="20260329020000 -0500" stop="20260329040000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Una mezcla explosiva de emociones: risas, suspenso y acción.</desc>
+  </programme>
+
+  <programme start="20260329040000 -0500" stop="20260329060000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Lo mejor del cine mexicano.</desc>
+  </programme>
+
+  <programme start="20260329060000 -0500" stop="20260329080000 -0500" channel="mactv.pe">
+    <title>Cantos de mi tierra</title>
+    <desc>Música latinoamericana y tradiciones.</desc>
+  </programme>
+
+  <programme start="20260329080000 -0500" stop="20260329090000 -0500" channel="mactv.pe">
+    <title>Mac Noticias</title>
+    <desc>Información actualizada de Cajamarca y el mundo.</desc>
+  </programme>
+
+  <programme start="20260329090000 -0500" stop="20260329100000 -0500" channel="mactv.pe">
+    <title>Mirada Nacional</title>
+    <desc>Análisis político y social del país.</desc>
+  </programme>
+
+  <programme start="20260329100000 -0500" stop="20260329110000 -0500" channel="mactv.pe">
+    <title>Pokemon</title>
+    <desc>Acompaña a Ash y Pikachu en sus aventuras.</desc>
+  </programme>
+
+  <programme start="20260329110000 -0500" stop="20260329130000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los mejores éxitos de cumbia del Perú.</desc>
+  </programme>
+
+  <programme start="20260329130000 -0500" stop="20260329140000 -0500" channel="mactv.pe">
+    <title>Manual de Ned</title>
+    <desc>Consejos y humor sobre la vida escolar.</desc>
+  </programme>
+
+  <programme start="20260329140000 -0500" stop="20260329180000 -0500" channel="mactv.pe">
+    <title>Copa Perú</title>
+    <desc>La emoción del fútbol local en su máxima expresión. Vive cada jugada y cada gol.</desc>
+  </programme>
+
+  <programme start="20260329180000 -0500" stop="20260329190000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Los hits urbanos del momento.</desc>
+  </programme>
+
+  <programme start="20260329190000 -0500" stop="20260329200000 -0500" channel="mactv.pe">
+    <title>Casado con Hijos</title>
+    <desc>Humor familiar sin filtros.</desc>
+  </programme>
+
+  <programme start="20260329200000 -0500" stop="20260329210000 -0500" channel="mactv.pe">
+    <title>Dos hombres y medio</title>
+    <desc>Comedia irreverente con situaciones hilarantes.</desc>
+  </programme>
+
+  <programme start="20260329210000 -0500" stop="20260329220000 -0500" channel="mactv.pe">
+    <title>Mac Music</title>
+    <desc>Ritmo y alegría para cerrar el día.</desc>
+  </programme>
+
+  <programme start="20260329220000 -0500" stop="20260330000000 -0500" channel="mactv.pe">
+    <title>Cine Mac</title>
+    <desc>Películas dinámicas y entretenidas para cerrar el fin de semana.</desc>
+  </programme>
+
+</tv>
+
+</tv>
